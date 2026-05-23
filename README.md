@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1664-ways-to-make-a-fair-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/simplysandeepp/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/simplysandeepp/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/simplysandeepp/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/simplysandeepp/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/simplysandeepp/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
