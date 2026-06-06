@@ -1,11 +1,16 @@
-public class Solution {
-    public int[] countBits(int num) {
-        int[] answer = new int[num+1];
-        int offset = 1;
-        for(int i = 1; i < answer.length; i++){
-            if(offset * 2 == i) offset *= 2;
-            answer[i] = 1 + answer[i - offset];
+class Solution {
+    public int[] countBits(int n) {
+        int[] dp = new int[n + 1];
+        int sub = 1;
+
+        for (int i = 1; i <= n; i++) {
+            if (sub * 2 == i) {
+                sub = i;
+            }
+
+            dp[i] = dp[i - sub] + 1;
         }
-        return answer;
+
+        return dp;        
     }
 }
