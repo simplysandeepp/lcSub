@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/simplysandeepp/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/simplysandeepp/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/simplysandeepp/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/simplysandeepp/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/simplysandeepp/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/simplysandeepp/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/simplysandeepp/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/simplysandeepp/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/simplysandeepp/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/simplysandeepp/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/simplysandeepp/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/simplysandeepp/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/simplysandeepp/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/simplysandeepp/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1340-jump-game-v](https://github.com/simplysandeepp/DSA/tree/main/1340-jump-game-v/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/simplysandeepp/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/simplysandeepp/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/simplysandeepp/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
@@ -592,4 +595,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/simplysandeepp/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/simplysandeepp/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
