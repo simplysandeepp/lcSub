@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/simplysandeepp/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/simplysandeepp/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/simplysandeepp/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/simplysandeepp/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0396-rotate-function](https://github.com/simplysandeepp/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/simplysandeepp/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/simplysandeepp/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
