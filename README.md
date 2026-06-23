@@ -562,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/simplysandeepp/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0052-n-queens-ii](https://github.com/simplysandeepp/DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0494-target-sum](https://github.com/simplysandeepp/DSA/tree/main/0494-target-sum/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
