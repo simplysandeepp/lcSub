@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3660-jump-game-ix](https://github.com/simplysandeepp/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/simplysandeepp/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/simplysandeepp/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/simplysandeepp/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/simplysandeepp/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/simplysandeepp/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/simplysandeepp/DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/simplysandeepp/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/simplysandeepp/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/simplysandeepp/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/simplysandeepp/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/simplysandeepp/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/simplysandeepp/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/simplysandeepp/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/simplysandeepp/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -440,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/simplysandeepp/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -462,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/simplysandeepp/DSA/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/simplysandeepp/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/simplysandeepp/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/simplysandeepp/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -555,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/simplysandeepp/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/simplysandeepp/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
