@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/simplysandeepp/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/simplysandeepp/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/simplysandeepp/DSA/tree/main/0120-triangle/) | Medium |
+| [0221-maximal-square](https://github.com/simplysandeepp/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/simplysandeepp/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/simplysandeepp/DSA/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0337-house-robber-iii/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/simplysandeepp/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/simplysandeepp/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0221-maximal-square](https://github.com/simplysandeepp/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/simplysandeepp/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/simplysandeepp/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0221-maximal-square](https://github.com/simplysandeepp/DSA/tree/main/0221-maximal-square/) | Medium |
 | [0695-max-area-of-island](https://github.com/simplysandeepp/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/simplysandeepp/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
